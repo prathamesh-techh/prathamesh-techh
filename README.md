@@ -10,11 +10,11 @@
 
 - 🎓 MCA Graduate from **MIT Arts, Commerce and Science College, Alandi (SPPU)**
 - 💻 Passionate Full Stack Developer | React | Python | Django | PostgreSQL  
-- 🌱 Currently exploring **AI integration** and **Cloud Deployment (AWS/Vercel)**
+- 🌱 Currently exploring **AI integration**  
 - 💡 Building:
   - 📊 **Finance Tracker Web App**
   - 🤖 **AI SaaS Platform**
-- 🎯 Interests: Full-Stack Web Dev | Backend Engineering | Open Source | Python-Django
+- 🎯 Interests: Full-Stack Web Dev | Python Developer | Open Source | Python-Django
 
 ---
 
@@ -25,12 +25,21 @@
 </div>
 
 <div align="center">
-  
-| Frontend        | Backend        | Database         | Dev Tools         | Others             |
-|----------------|----------------|------------------|-------------------|--------------------|
-| React, HTML, CSS, JavaScript | Django, Node.js, Python | PostgreSQL, SQLite | Git, GitHub, VS Code | REST API, JSON, JWT |
+
+| Frontend        | Backend        | Database         | Dev Tools         |
+|----------------|----------------|------------------|-------------------|
+| React, HTML, CSS, JavaScript | Django, Python | PostgreSQL, SQLite | Git, GitHub, VS Code |
 
 </div>
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **Winner** – *ICCIS 2.0 (2024)* for research paper on **Privacy-Preserving ML using Homomorphic Encryption**  
+- 📊 **Research** – Currently working on an ML model for **predicting EV sales consistency**  
+- 🧠 **Learner** – Attended multiple **technical meetups and seminars** to stay current with emerging technologies  
+- 💻 **Competitor** – Active participant in **web design** and **quiz competitions**
 
 ---
 
