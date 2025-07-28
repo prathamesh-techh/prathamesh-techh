@@ -1,59 +1,35 @@
 <h1 align="center">Hi there 👋 I'm Prathamesh</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Learning+AI+and+Cloud+Deployment;Building+Innovative+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+and+Cloud+Enthusiast;Building+Meaningful+Projects" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 MCA Graduate from **Savitribai Phule Pune University**  
-- 💻 Full Stack Developer | React | Python | Django | PostgreSQL  
-- 🌱 Currently learning: **AI integration**, **Cloud Deployment** (AWS, Vercel)  
-- 🛠️ Building:
-  - AI-Powered Career Counseling Platform
-  - Personal Budget Tracker  
-- 📚 Interested in Web Development, Machine Learning, and Open Source
+- 🎓 MCA Graduate from **MIT Arts, Commerce and Science College, Alandi (SPPU)**
+- 💻 Passionate Full Stack Developer | React | Python | Django | PostgreSQL  
+- 🌱 Currently exploring **AI integration** and **Cloud Deployment (AWS/Vercel)**
+- 💡 Building:
+  - 📊 **Finance Tracker Web App**
+  - 🤖 **AI SaaS Platform**
+- 🎯 Interests: Full-Stack Web Dev | Backend Engineering | Open Source | Python-Django
 
 ---
 
-### 📫 How to Reach Me
+### 🛠️ Skills & Tools
 
-- ✉️ Email: [prathamesh.adawale98@gmail.com](mailto:prathamesh.adawale98@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/prathamesh-adawale](https://linkedin.com/in/prathamesh-adawale)  
-- 🌐 Portfolio: _Coming Soon!_
-
----
-
-### ⚡ Fun Facts
-
-- 🧠 I love learning how technology shapes the future  
-- 🎯 Always curious and eager to explore new tech stacks  
-- 🧩 Enjoy working on side-projects that solve real-world problems  
-
----
-
-### 🔧 Tools & Technologies
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,python,js,html,css,postgresql,sqlite,git,github,vscode" />
+</div>
 
 <div align="center">
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" alt="Django" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
-  <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" width="40" alt="Netlify" />
-  <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" width="40" alt="Vercel" />
-  
+| Frontend        | Backend        | Database         | Dev Tools         | Others             |
+|----------------|----------------|------------------|-------------------|--------------------|
+| React, HTML, CSS, JavaScript | Django, Node.js, Python | PostgreSQL, SQLite | Git, GitHub, VS Code | REST API, JSON, JWT |
+
 </div>
 
 ---
@@ -61,14 +37,33 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshAdawale&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshAdawale&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=PrathameshAdawale&show_icons=true&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrathameshAdawale&layout=compact&theme=tokyonight&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshAdawale&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PrathameshAdawale&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-<p align="center"><b>Thanks for stopping by! Feel free to explore my repositories and connect 🤝</b></p>
+### 📫 Let's Connect
+
+- 📧 **Email**: [prathamesh.adawale98@gmail.com](mailto:prathamesh.adawale98@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/prathamesh-adawale](https://linkedin.com/in/prathamesh-adawale)  
+- 🌐 **Portfolio**: _Coming Soon..._
+
+---
+
+### ⚡ Fun Facts
+
+- 🚀 Always curious to try new stacks and explore real-world applications  
+- 🤝 Love collaborating on open source and impactful projects  
+- 🧩 Tech + Logic = 🔥 My happy place  
+
+---
+
+<p align="center">
+  <b>Thanks for stopping by!</b><br/>
+  <i>Feel free to check out my repositories, leave feedback, and connect!</i>
+</p>
